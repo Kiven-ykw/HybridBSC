@@ -1,1 +1,0 @@
-lena1 = trace;
