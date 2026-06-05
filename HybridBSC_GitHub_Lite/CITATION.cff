@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use HybridBSC, please cite the associated paper."
+title: "HybridBSC: A hybrid bit and semantic communication system demo"
+type: software
+authors:
+  - family-names: Yu
+    given-names: Kaiwen
+  - family-names: Fan
+    given-names: Renhe
+  - family-names: Wu
+    given-names: Gang
+  - family-names: Qin
+    given-names: Zhijin
+year: 2026
+repository-code: "https://github.com/Kiven-ykw/HybridBSC"
+preferred-citation:
+  type: article
+  title: "A hybrid bit and semantic communication system"
+  authors:
+    - family-names: Yu
+      given-names: Kaiwen
+    - family-names: Fan
+      given-names: Renhe
+    - family-names: Wu
+      given-names: Gang
+    - family-names: Qin
+      given-names: Zhijin
+  journal: "Science China Information Sciences"
+  volume: 69
+  issue: 1
+  pages: "119301"
+  year: 2026
+  doi: "10.1007/s11432-025-4622-x"
